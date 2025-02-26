@@ -1,0 +1,31 @@
+.h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.h2 {
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0;
+}
+
+.imagem {
+    width: 250px;
+}
+
+.texto-azul {
+    color: #1d80c1;
+}
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}

@@ -1,0 +1,32 @@
+.secao{
+    font-size: 18px;
+    line-height: 28px;
+    background-color: #1c81c0;
+}
+.h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    padding-top: 10px;
+}
+.paragrafo {
+    color: white;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+    margin: 40px auto;
+}
+.lista{
+    width: 135px;
+    margin: 5px auto;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+.amarelo{
+    font-weight: bold;
+    color: #fff81b;
+}
